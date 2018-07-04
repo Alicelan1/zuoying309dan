@@ -14,11 +14,11 @@
 	}
 
 	body, span, input, select, textarea {
-		color: #555555;
-		font-family: 'Raleway', sans-serif;
-		font-size: 12pt;
-		font-weight: 300;
-		line-height: 1.65em;
+	color: #140552;
+	font-family: 'Raleway', sans-serif;
+	font-size: 12pt;
+	font-weight: 300;
+	line-height: 1.65em;
 	}
 
 	a {
@@ -549,7 +549,9 @@
 	}
 
 	#nav ul li a:hover {
-		color: #fff;
+	color: rgba(53,219,154,0.75);
+	font-family: Raleway, sans-serif;
+	font-size: 100%;
 	}
 
 /* Banner */
@@ -568,7 +570,7 @@
 
 	#banner strong,
 	#banner a {
-		color: inherit;
+	color: #79C1D0;
 	}
 
 /* Main */
